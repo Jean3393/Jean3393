@@ -1,4 +1,4 @@
-<h2 align="center">Olá, sou o Jean Divino!</h2>
+<h2 align="center">Bem-vindo ao meu portfólio de análise de dados!</h2>
 
 ###
 
@@ -8,7 +8,15 @@
 
 ###
 
-<p align="center">Em constante atualização, aqui no meu GitHub você poderá encontrar projetos com: <br><br>• Limpeza e Modelagem de Dados com Excel<br>• Visualização de Dados com Power BI<br>• Análise Exploratória de Dados com SQL e Python<br>• Data Storytelling com Power Point</p>
+<p align="left">Meu nome é Jean Divino, sou um analista com experiência em análise de dados, automação de relatórios e criação de dashboards interativos, sempre com o objetivo de otimizar processos e apoiar a tomada de decisões.</p>
+
+###
+
+<p align="center">Aqui, você encontrará projetos que aplicam: <br>• Limpeza e modelagem de dados com Excel e Power Query; <br>• Visualização de dados com Power BI; <br>• Análise exploratória de dados com SQL e Python; <br>• Data storytelling com Jupyter Notebook e Power Point.</p>
+
+###
+
+<p align="left">Todos utilizando técnicas avançadas para resolver problemas reais e demonstrando minhas habilidades em organização, análise e apresentação clara de resultados.</p>
 
 ###
 
